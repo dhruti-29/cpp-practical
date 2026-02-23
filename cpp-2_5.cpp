@@ -71,4 +71,4 @@ int main()
     l1.emical();
 l1.dispaly();
     return 0;
-}
+}q
